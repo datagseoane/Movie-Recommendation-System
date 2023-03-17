@@ -12,12 +12,12 @@ In the repository you can find:
 ## 🦾 Dataset Dictionary:
 Las principales variables en el conjunto de datos de MovieLens son las siguientes:
 
-* **Usuario [userId]:** un identificador único para cada usuario que ha calificado películas en el conjunto de datos.
-* **Película [movieId]:** un identificador único para cada película en el conjunto de datos.
-* **Calificación [rating]:** una calificación numérica del 1 al 5 que el usuario dio a la película.
-* **Fecha de Calificación [timestamp]:** la fecha en que el usuario calificó la película.
-* **Título de la película:** el título de la película.
-* **Género de la Película:** el género de la película, como comedia, drama o acción.
+* **userId:** un identificador único para cada usuario que ha calificado películas en el conjunto de datos.
+* **movieId:** un identificador único para cada película en el conjunto de datos.
+* **rating:** una calificación numérica del 1 al 5 que el usuario dio a la película.
+* **timestamp:** la fecha en que el usuario calificó la película.
+* **title:** el título de la película.
+* **Genre:** el género de la película, como comedia, drama o acción.
 
 ## Objetivos:
 El objetivo principal de este proyecto es desarrollar un algoritmo de recomendación de películas que pueda utilizar el conjunto de datos de MovieLens para hacer recomendaciones personalizadas a los usuarios. Para lograr este objetivo, se han definido los siguientes objetivos específicos:
