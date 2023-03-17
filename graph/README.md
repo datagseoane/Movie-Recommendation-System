@@ -8,7 +8,7 @@
 * **graph.gephi**: Graf realizado con el programa *Gephi*
 * **twitterFollowers.png**: Graf personal realizado con matplotLib
 
-## 📚 Llibreries
+## 📚 Libreria
 * **pandas** 1.5.0
 * **networkx** 2.7.1
 * **matplotlib** 3.5.1
