@@ -1,5 +1,6 @@
 # Movie-Recommendation-System
-Final Project IT Academy by Barcelona Activa
+This repository contains the solution to my Final Project at IT Academy by Barcelona Activa
+My name is Guillermo Seoane and I'm a #DataScience student.
 
 ## Introducción: 
 Los sistemas de recomendación de películas son una de las aplicaciones más populares en la minería de datos y el aprendizaje automático. Estos sistemas se basan en el análisis de grandes conjuntos de datos para identificar patrones y tendencias que puedan utilizarse para hacer recomendaciones personalizadas a los usuarios. En este informe, se presenta el desarrollo de un algoritmo de recomendación de películas utilizando los datos de la base de datos de MovieLens.
