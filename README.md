@@ -36,3 +36,7 @@ Este método utiliza la similitud de coseno para medir la similitud entre dos ve
 Este método utiliza el coeficiente de correlación de Pearson para medir la similitud entre dos vectores de calificación de películas. Para cada usuario, se calcula el coeficiente de correlación de Pearson con todos los demás usuarios en el conjunto de datos. A continuación, se seleccionan los usuarios con los coeficientes de correlación más altos y se recomiendan las películas que han calificado positivamente pero que el usuario aún no ha visto.
 Para ambos métodos, se ha utilizado una técnica de filtrado colaborativo, que se basa en la idea de que los usuarios con gustos similares tienden a calificar las mismas películas de manera similar. Estos métodos de recomendación no requieren información adicional sobre las películas o los usuarios, como su género o edad.
 
+## 📊 Visualización
+![gephi](https://user-images.githubusercontent.com/29567860/226389137-51c2bc97-a404-44d9-8073-0ba9e854a870.png)
+
+
