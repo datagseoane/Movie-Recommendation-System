@@ -1,4 +1,5 @@
 # Graph
+Utilizar Gephi para la visualización y análisis de grafos para entender mejor la estructura de la red de usuarios y películas en el conjunto de datos.
 
 ### 📚 Archivos:
 * **Easy Graph.ipynb**: Notebook con los pasos a seguir
