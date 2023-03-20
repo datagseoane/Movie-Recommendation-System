@@ -1,37 +1,36 @@
 # Sprint 11_Final Project
-This repository contains the solution to my Final Project at IT Academy by Barcelona Activa based on the development of a movie recommendation algorithm using data from the MovieLens database.
+This repository houses the solution to my Final Project, which involved developing a movie recommendation algorithm by leveraging data from the extensive MovieLens database.
 
-My name is [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/) and I'm a **#DataScience** student.
+My name is [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/) and I'm a **#DataScience** student at IT Academy by Barcelona Activa
 
 ## Movie-Recommendation-System
 
 ### 🎬 Context:
 
-El objetivo principal de este proyecto es desarrollar un algoritmo de recomendación de películas que pueda utilizar el conjunto de datos de MovieLens para hacer recomendaciones personalizadas a los usuarios. Para lograr este objetivo, se han definido los siguientes objetivos específicos:
-* Explorar y entender el conjunto de datos de MovieLens.
-* Identificar patrones y tendencias en los datos que puedan utilizarse para hacer recomendaciones personalizadas.
-* Desarrollar y probar dos métodos de recomendación diferentes: similitud de coseno y coeficiente de correlación de Pearson.
-* Utilizar Gephi para la visualización y análisis de grafos para entender mejor la estructura de la red de usuarios y películas en el conjunto de datos.
+The main objective of this project is to develop a movie recommendation algorithm that can utilize the MovieLens dataset to provide personalized recommendations to users. To achieve this objective, the following specific goals have been defined:
+* Explore and understand the MovieLens dataset.
+* Identify patterns and trends in the data that can be used for personalized recommendations.
+* Develop and test two different recommendation methods: cosine similarity and Pearson correlation coefficient.
+* Use Gephi for graph visualization and analysis to gain a better understanding of the network structure of users and movies in the dataset.
 
 ### 📚 Archives:
 In the repository you can find:
-* **Dataset**: El conjunto de datos de MovieLens es una colección de calificaciones de películas recopiladas por el GrupoLens de la Universidad de Minnesota. 
-* **Algorithm:** 
-* **Graph**: Utilizar Gephi para la visualización y análisis de grafos para entender mejor la estructura
-de la red de usuarios y películas en el conjunto de datos.
+* **Dataset**: The MovieLens dataset is a collection of movie ratings collected by the University of Minnesota Lens Group.
+* **Algorithm:** movie recommendation algorithm
+* **Graph**: Use Gephi for graph visualization and analysis to better understand the structure of the network of users and movies in the dataset.
 * A **paper & presentation.pdf** explaining how I have reach the solution
 
 ### 🦾 Dataset Dictionary:
-Las principales variables en el conjunto de datos de MovieLens son las siguientes:
+The main variables in the MovieLens dataset are the following:
 
-* **userId:** un identificador único para cada usuario que ha calificado películas en el conjunto de datos.
-* **movieId:** un identificador único para cada película en el conjunto de datos.
-* **rating:** una calificación numérica del 1 al 5 que el usuario dio a la película.
-* **timestamp:** la fecha en que el usuario calificó la película.
-* **title:** el título de la película.
-* **Genre:** el género de la película, como comedia, drama o acción.
+* **userId:** a unique identifier for each user who rated movies in the dataset.
+* **movieId:** a unique identifier for each movie in the data set.
+* **rating:** a numerical rating from 1 to 5 that the user gave the movie.
+* **timestamp:** the date the user rated the movie.
+* **title:** the movie title.
+* **Genre:** the genre of the film, such as comedy, drama, or action.
 
 ### 📊 Visualización
-La visualización y análisis de grafos con Gephi ha permitido entender mejor la estructura de la red de usuarios y películas en el conjunto de datos y ha ayudado a identificar patrones y tendencias que pueden utilizarse para mejorar aún más el rendimiento del algoritmo.
+The graph visualization and analysis with Gephi have helped to gain a better understanding of the network structure of users and movies in the dataset, and have aided in identifying patterns and trends that can be used to further enhance the performance of the algorithm.
 
 ![gephi](https://user-images.githubusercontent.com/29567860/226389137-51c2bc97-a404-44d9-8073-0ba9e854a870.png)
