@@ -28,7 +28,7 @@ The main variables in the MovieLens dataset are the following:
 * **rating:** a numerical rating from 1 to 5 that the user gave the movie.
 * **timestamp:** the date the user rated the movie.
 * **title:** the movie title.
-* **Genre:** the genre of the film, such as comedy, drama, or action.
+* **genre:** the genre of the film, such as comedy, drama, or action.
 
 ### 📊 Visualización
 The graph visualization and analysis with Gephi have helped to gain a better understanding of the network structure of users and movies in the dataset, and have aided in identifying patterns and trends that can be used to further enhance the performance of the algorithm.
