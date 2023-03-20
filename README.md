@@ -1,5 +1,6 @@
 # Movie-Recommendation-System
-This repository contains the solution to my Final Project at IT Academy by Barcelona Activa.  
+This repository contains the solution to my Final Project at IT Academy by Barcelona Activa based on the development of a movie recommendation algorithm using data from the MovieLens database.
+
 My name is [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/) and I'm a **#DataScience** student.
 
 ## 📚 Archives:
