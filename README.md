@@ -4,8 +4,7 @@ My name is [Guillermo Seoane](https://www.linkedin.com/in/guilleseoane/) and I'm
 
 ## 📚 Archives:
 In the repository you can find:
-* **Exploratory_analysis** of the data,that allows you to understand it better and find insights (ex: flights per month, most used routes, etc.) based on "Mapping Destination Countries". [Download 'Mapping Destination Countries'](https://github.com/datagseoane/Vueling-Tech-Hack/blob/main/data/encode_countries.json)
-* **Algorithm:** model used for prediction.
+* **Algorithm:** 
 * **Graph**: 
 * A **presentation.pdf** explaining how I have reach the solution
 
